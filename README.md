@@ -5,15 +5,10 @@
         <a href="https://luohongkun.top/resume/">Hongkun Luo(罗宏昆)</a><sup>1*</sup>  
         <a href="https://github.com/TongyunLi">Tongyun Li(李彤云)</a><sup>2</sup>  
         <a href="https://github.com/zhouwenbinzuiniu">Wenbin Zhou(周文斌)</a><sup>3</sup>  
-        <a href="https://github.com/zhouwenbinzuiniu">Han Sheng(盛晗)</a><sup>3</sup>  
+        <a href="https://github.com/JCpai08">Han Sheng(盛晗)</a><sup>3</sup>  
     </p>
     <p>
         <sup>1</sup>武汉大学 <a href="https://www.zhiyuteam.com/">[北斗机器人和智能导航实验室]</a>    
-
-
-
-
-
         <sup>2</sup>中国矿业大学    
         <sup>3</sup>河南理工大学
     </p>
